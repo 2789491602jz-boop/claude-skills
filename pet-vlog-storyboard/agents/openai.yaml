@@ -1,0 +1,4 @@
+interface:
+  display_name: "萌宠实拍分镜与表演"
+  short_description: "固定九小州与波波的奶声台词、微表情、自然节奏和实拍连续性规则"
+  default_prompt: "请用 $pet-vlog-storyboard 把这段剧情写成可直接使用的视频镜头提示词。"
